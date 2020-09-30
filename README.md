@@ -1,4 +1,5 @@
-# Build A Real-World HTML5 & CSS3 Responsive Website From Scratch
+# Build A Real-World HTML5 & CSS3 Responsive Website From Scratch. No Pre-requisite qualification needed.
+ The Era has changed and now is the perfect time to learn Website developement. Good thing is that anyone can build website with this course from scratch.
 
 ## Sample Application
 
